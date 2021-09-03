@@ -2,7 +2,7 @@
 - 👀 I’m interested in C,java and andriod dev
 - 🌱 I’m currently learning android dev
 - 💞️ I’m looking to collaborate on apps dev project 
-- 📫 How to reach me my social media link is : https://www.facebook.com/jubayer.hussain.1217/
+- 📫 My social media link is : https://www.facebook.com/jubayer.hussain.1217/
 
 <!---
 MDJubayerHussain/MDJubayerHussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
